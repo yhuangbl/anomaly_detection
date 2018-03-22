@@ -6,9 +6,10 @@ methods for anomaly detection (outlier detection) on Iris Data
   - k means
   - hierarchical clustering
   - Density-based spatial clustering of applications with noise
-- Neural networks
+- Neural Networks
   - Replicator Neural Networks
   - Autoencoders
-- Support vector machines (SVM)
+- Principal Component Classifier (PCA)
+- Support Vector Machines (SVM)
 - Bayesian Networks
-- Hidden Markov models (HMMs)
+- Hidden Markov Models (HMMs)
