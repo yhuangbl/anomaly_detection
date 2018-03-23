@@ -7,7 +7,7 @@ methods for anomaly detection (outlier detection) on Iris Data
   - hierarchical clustering
   - Density-based spatial clustering of applications with noise
 - Neural Networks
-  - Replicator Neural Networks
+  - Replicator Neural Networks (RNN)
   - Autoencoders
 - Principal Component Classifier (PCA)
 - Support Vector Machines (SVM)
