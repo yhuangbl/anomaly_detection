@@ -9,7 +9,7 @@ methods for anomaly detection (outlier detection) on Iris Data
 - Neural Networks
   - Replicator Neural Networks (RNN)
   - Autoencoders
-- Principal Component Classifier (PCA)
+- Principal Component Classifier (PCC)
 - Support Vector Machines (SVM)
 - Bayesian Networks
 - Hidden Markov Models (HMMs)
